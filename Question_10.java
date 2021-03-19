@@ -8,7 +8,7 @@ public class Question_10 {
 	/* Instructor did not set any different values to my vaiable. 
 	 * so i decided to set a random values to my vaiables*/
 	
-	 // 17:32:08 PM
+	 // 17:32:45 PM
 		hour=17;minute=32;second=45;
 		System.out.println(hour+":"+minute+":"+second+" "+pm);
 
