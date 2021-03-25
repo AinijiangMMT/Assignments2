@@ -1,8 +1,0 @@
-my first git test and file
-815
-
-(Note: starting Oct. 2020, any new repository is created with the default branch main,
- not master. And you can rename existing repository default branch from master to main.
-The rest of this 2014 answer has been updated to use "main")
-
-If the GitHub repo has seen new commits pushed to it, while you were working locally, I would advise using:
